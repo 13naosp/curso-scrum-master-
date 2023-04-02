@@ -1,0 +1,27 @@
+Criado em fevereiro de 2001 por 12 agilitas que ja usavam praticas ágeis.
+Cada um em seu segmento, se uniram para criar o "manifesto ágil" e seus 4 valores.
+
+VALORES: 
+1- Indivíduos e interações mais que processos e ferramentas. 
+2- Software em funcionamento mais que documentação abrangente. 
+3- Colaboração com o cliente mais que negociação e ferramentas.
+4- Responder a mudanças mais que seguir o plano. 
+
+*O manifesto ágil é um método de trabalho e uma filosofia.
+*Não é um framework.  
+
+
+Os 12 princípios do manifesto ágil: 
+
+1- Satisfazer o cliente, entregar o software com valor.
+2- Aceitar mudanças.
+3-Entrega do software frequentes.
+4-Pessoas do buzines e devis devem trabalhar em conjunto pelo projeto.
+5-Pessoas motivadas, ambiente, suporte, confiança na capacidade da equipe. 
+6-Converça face a face. Passar informações e ideias.
+7-Softwaer funcionando igual a progresso. 
+8-Ritmo constante de todos.
+9-Excelencia técnica e designe.
+10-Simplicidade, maximizar o trabalho não realizado.
+11-As melhores estruturas são de times auto organizados.
+12-Refinar a equipe.

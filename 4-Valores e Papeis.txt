@@ -1,0 +1,22 @@
+Valores e Papeis do Scrum.
+
+Valores do Scrum:
+1- Compromisso: Com o time, produto e sprint.
+2- Foco: No valor, prioridades de execução
+3- Abertura: Criticas, mudanças, visões, gerando adaptação.
+4- Coragem: De se desafiar, arriscar , criar e entregar. 
+
+Papeis no Scrum:
+
+1 – P.O (PRODUCT OWNER): O dono do produto, responsável por colher do cliente suas necessidades e desejos do produto. 
+Ele deve pegar essas informações repassá-las aos devis que por sua vez só poder alterar ou cancelar um sprint com a autorização do mesmo. 
+
+2- Scrum Master: Lider servidor. Responsável por todas as cerimonias e reuniões, que elas aconteçam,
+e que elas gerem valor, que algo sai de produtivo, de cada uma delas.  
+Ele tira os empecilhos, reforça os valores do scrum, cria um ambiente propicio a performance da equipe.
+Ajuda o scrum time a se a ter na criação do incremento de valor a cada sprint. 
+
+3- Scrum time: Auto gerenciável. Se organizam entre si, não á hierarquia, eles decidem quais itens do product backlog vão fazer, 
+quem vai fazer o que, e como. São multifuncionais, com capacidade de gerar valor a cada sprint. 
+O time sempre será pequeno o suficiente para a performance ágil e grande o suficiente para concluir o trabalho. 
+Devem saber se adaptar afim de chegar a definição de pronto.

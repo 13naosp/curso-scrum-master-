@@ -1,0 +1,22 @@
+Scrum Framework.
+
+*Criado por Jeff Sutherland, que conta o desenvolvimento do Scrum e vários cases de sucesso no livro “ Scrum – A arte de fazer o dobro do trabalho na metade do tempo”. 
+* Nome oriunda de uma jogada do Rugby.
+
+* É um framework. 
+
+Objetivos do Scrum: 
+
+* Ser simples.
+* Ajudar a atingir o objetivo da equipe, a cada sprint.
+* É incompleto, apto para implementações.
+* Propicia a inteligência coletiva e o conhecimento empírico. 
+*Orienta relacionamentos e interações. 
+
+3 Pilares do Scrum (T.I.A): 
+1-TRANSPARENCIA: Nos processos, requisitos de entrega, status. Todo o time deve saber o que está acontecendo. 
+2- INSPEÇÃO:     Constante, sobre tudo, e se a questão atual traz valor para a sprint. 
+3- ADAPTAÇÃO:    Por meio de reuniões programadas, dentro de cada sprint, não se altera drasticamente nada, mas se coordena afim de chegar no resultado proposto. 
+
+*A inspeção e adaptação acontecem a todo tempo, afim de trazer valor a cada sprint. 
+

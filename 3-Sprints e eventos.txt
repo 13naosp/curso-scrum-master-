@@ -1,0 +1,55 @@
+SPRINT E EVENTOS 
+
+* Cada sprint tem sua finalidade, e seu time box (tempo de duração).
+Que podem variar de uma a quatro semanas. 
+
+*Uma nova sprint começa assim que a anterior termina, dentro do scrum não existe intervalos entre as sprints.
+ Vários eventos acontecem de forma cíclica. 
+*Se a meta da sprint se tornar obsoleta ela pode ser cancelada, só quem tem poder para cancelar é o P.O. 
+*Ao final de cada sprint os devis devem entregar um incremento de valor.
+*O escopo da sprint pode e deve ser esclarecido ou renegociado com o P.O se assim se mostrar necessário para o produto. 
+
+
+EVENTOS:
+
+*SÃO CINCO NO TOTAL.
+
+1- SPRINT
+2- SPRINT PLANNING
+3- DAILY SCRUM
+4- SPRINT REVIEW
+5- SPRINT RETROSPECTIVE
+*Acima você já teve um resumo do que é uma sprint, então vou resumir as outras modalidades.
+
+SPRINT PLANNING:
+*Primeira reunião/evento.
+*Definir o trabalho que será feita na sprint atual, escolher itens do product backlog.
+*E entregar esses itens com um incremento de valor é a meta da sprint em questão.
+
+(product backlog: Todos os itens que serão trabalhados ate a entrega do produto.) 
+
+DAILY SCRUM.
+
+*Foi criada por Jeff para ser uma reunião rápida e feita com todos de pé. 
+*Alinhamento diário dos devis para inspecionar o progresso em direção a meta, e se há algo que requer adaptação ou se há algum impedimento. 
+*Duração de 15 minutos. 
+*O scrum master garante que ela aconteça, porem o evento não é dele, nem do P.O, a participação deles é opcional. 
+*Elimina outras reuniões desnecessárias.
+*Porem não é o único momento onde os devis podem interagir entre si. Isso pode e deve acontecer a vontade, quando eles sentirem que precisa. 
+
+SPRINT REVIEW.
+
+*Acontecem ao fim de cada sprint.
+*Serve para dar visibilidade ao que já foi feito dentro da sprint e inspecionar o mesmo, e determinar futuras adaptações. 
+*Os devis apresentam aos stakeholders o progresso em direção a meta.
+*Não é uma apresentação de slide, muito menos de dados gráficos, a review é um evento onde o incremento de valor, 
+algo significativo deve ser apresentado, de preferencia funcionando ou a ponto de funcionar, com definição de pronto, D.O.D. 
+*Ao ser revisado, e definido ajustes, vamos colocar a próxima meta da próxima sprint. 
+
+
+SPRINT RETROSPECTIVE.
+
+*Evento para validar o time, colocar a mesa pontos positivos e negativos dentro da sprint.
+*Foco na equipe e não no produto.
+*Achar possíveis problemas, falta de conhecimento de alguém da equipe, questões pessoais, falta de comprometimento, indivíduos e interações como estão entre si. 
+*Alinhamento para tornar o time cada vez melhor em performar. 

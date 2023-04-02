@@ -1,0 +1,40 @@
+ARTEFATOS SCRUM.
+
+*Dentro do scrum nos temos 3 artefatos, que server para aumentar o T.I.A, representam valor, 
+a cada artefato um compromisso de trazer valor é gerado.
+
+Artefatos:
+
+1- Product Backlog: Plano de trabalho, meta do produto, feitos pelos devis, itens que devem ser entregues para finalização do produto. 
+Pode e deve ser ajustado, atualizado, ao andamento da sprint. Se o devi terminar antes do fim da sprint, 
+ele não precisa terminar o termino da mesma para puxar outro itens do P.B.L, ele já pode dar inicio a outro iten. 
+
+2- Sprint Backlog: Meta da sprint, deixa claro oque iremos fazer, por que iremos fazer, e como vamos fazer, 
+e dentro disso devemos criar um plano de ação para entregar um incremento de valor. 
+
+3- Incremento: Um incremento de valor é entregue a cada fim de sprint, é um trampolim concreto em direção a meta. 
+É apresentado na sprint review. Tendo duas definições. 
+Definição de feito, e definição de pronto.
+Na definição de feito, devemos ver o que o produto deve atender. Na definição de pronto, 
+devemos ver o que o produto deve fazer para se definir como pronto. 
+
+
+
+3-5-3:
+
+3 – Reponsabilidades: 
+1 – Product Owner 
+2 – Scrum master
+3 – Devis
+
+5 – Eventos:
+1 – Sprint
+2 – Sprint planning
+3 – Daily scrum
+4 – Sprint review
+5 – Sprint retrospective
+
+3 – Artefatos:
+1 – Produtc backlog
+2 – Sprint backlog
+3 – Incremento 
